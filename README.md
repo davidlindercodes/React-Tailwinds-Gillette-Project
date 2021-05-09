@@ -1,3 +1,14 @@
+## The goal
+
+I am creatind product langing page for [Gillettes' Subscription Plan](https://www.gillette.co.uk/razor-subscription.list?gclid=CjwKCAjwkN6EBhBNEiwADVfyawiwaXV9_u35ASGQDLem748r3oE3POjzPXITX2FUj81FXpLZfkm78BoC8skQAvD_BwE). The Current page is a little old and dated, so I will re-vamp the design usnig [Tailwindcss](https://tailwindcss.com/). I have taken inspiration from [this design I found found on Dribble](https://dribbble.com/shots/14375856-landing-page-homepage). 
+
+The goal of this project is only to become familar with TailwindCSS, due to it's similarity to Bootstrap, I will not spend more than 1 day working on this project. 
+
+You can monitor the progress of this project live [here](https://react-tailwinds-test-project.vercel.app/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
