@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
         <div>
-            <nav class="flex justify-between p-4"> 
+            <nav class="flex relative justify-between p-4"> 
                 <section >
                 <Link to="/" className='ml-4 font-extrabold text-4xl tracking-tight'>
                 gillette. 
@@ -23,7 +23,7 @@ const Navbar = () => {
                 </Link>
 
                 <Link to="/" className='bg-black text-white pl-6 pr-6 pt-3 pb-3 rounded ml-4 mr-4  text-m tracking-tight'>
-                Buy Now
+                Sign Up
                 </Link>
 
                 </section>
